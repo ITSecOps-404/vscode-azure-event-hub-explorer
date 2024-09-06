@@ -132,7 +132,7 @@
     "azure-arm-resource": "^3.0.0-preview",
     "azure-event-hubs": "0.0.8",
     "ms-rest": "^2.3.0",
-    "ms-rest-azure": "^2.4.5"
+    "ms-rest-azure": "^2.6.2"
   },
   "extensionDependencies": [
     "ms-vscode.azure-account"
