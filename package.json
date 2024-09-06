@@ -131,7 +131,7 @@
     "azure-arm-eventhub": "^1.1.0-preview",
     "azure-arm-resource": "^3.0.0-preview",
     "azure-event-hubs": "0.0.8",
-    "ms-rest": "^2.3.0",
+    "ms-rest": "^2.5.6",
     "ms-rest-azure": "^2.4.5"
   },
   "extensionDependencies": [
